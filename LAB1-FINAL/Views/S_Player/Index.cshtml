@@ -1,0 +1,62 @@
+﻿@model IEnumerable<LAB1_FINAL.Models.PlayerModel>
+
+@{
+    ViewBag.Title = "S_Index";
+}
+
+<h2>Standar List</h2>
+
+<p>
+    @Html.ActionLink("Create new", "Create")
+    |  @Html.ActionLink("Search name", "SearchByName")
+    |  @Html.ActionLink("Search positions", "SearchByPosition")
+    |  @Html.ActionLink("Search club", "SearchByClub")
+    |  @Html.ActionLink("Search salary above", "SearchBySalary_Above")
+    |  @Html.ActionLink("Search salary below", "SearchBySalary_Under")
+    |  @Html.ActionLink("Upload CSV", "S_CSV")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Position)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Club)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Position)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Club)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Salary)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {  id=item.Name }) |
+            @Html.ActionLink("Delete", "Delete", new {  id=item.Name })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,30 @@
+﻿@using LAB1_FINAL.Models
+@model IEnumerable<PlayerModel>
+
+@{
+    ViewBag.Title = "S_CSV";
+}
+
+<h2>CSV upload for Standard List</h2>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CSV</title>
+</head>
+<body>
+    <div class="form-horizontal">
+        @using (Html.BeginForm("CSV", "S_Player", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <input type="file" name="postedFile" />
+            <input type="submit" name="Import" />
+        }
+        
+        </div>
+</body>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+</html>

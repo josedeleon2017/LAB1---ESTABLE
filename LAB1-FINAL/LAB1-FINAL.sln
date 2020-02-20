@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB1-FINAL", "LAB1-FINAL.csproj", "{A112AA51-D472-4799-A15E-3B8A669D2472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinealStructures", "..\LinealStructures\LinealStructures.csproj", "{3C8337A3-B384-4EC5-B942-FA362A664203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A112AA51-D472-4799-A15E-3B8A669D2472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A112AA51-D472-4799-A15E-3B8A669D2472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A112AA51-D472-4799-A15E-3B8A669D2472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A112AA51-D472-4799-A15E-3B8A669D2472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8337A3-B384-4EC5-B942-FA362A664203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8337A3-B384-4EC5-B942-FA362A664203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8337A3-B384-4EC5-B942-FA362A664203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8337A3-B384-4EC5-B942-FA362A664203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A5EF2D-90D5-4F30-9266-7DB03B63F91E}
+	EndGlobalSection
+EndGlobal

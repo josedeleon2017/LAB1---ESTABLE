@@ -1,0 +1,26 @@
+﻿@using LAB1_FINAL.Models
+@model IEnumerable<PlayerModel>
+
+@{
+    ViewBag.Title = "Log";
+}
+
+<h2>Log</h2>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CSV</title>
+</head>
+<body>
+    <div class="form-horizontal">
+        @Html.DisplayText(PlayerModel.LogMostrar);
+
+    </div>
+</body>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+</html>

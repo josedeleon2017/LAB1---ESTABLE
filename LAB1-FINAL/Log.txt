@@ -1,0 +1,51 @@
+| Tiempo: 16ticks. | Operación realizada:Consulta de Lista C#. |
+| Tiempo: 81316ticks. | Operación realizada:Importación de jugadores en Lista C# mediante CSV. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista C#. |
+| Tiempo: 1416ticks. | Operación realizada:Eliminación de jugador en Lista C#. |
+| Tiempo: 4ticks. | Operación realizada:Consulta de Lista C#. |
+| Tiempo: 292ticks. | Operación realizada:Eliminación de jugador en Lista C#. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista C#. |
+| Tiempo: 452ticks. | Operación realizada:Eliminación de jugador en Lista C#. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista C#. |
+| Tiempo: 246ticks. | Operación realizada:Eliminación de jugador en Lista C#. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista C#. |
+| Tiempo: 455ticks. | Operación realizada:Eliminación de jugador en Lista C#. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista C#. |
+| Tiempo: 228ticks. | Operación realizada:Eliminación de jugador en Lista C#. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista C#. |
+| Tiempo: 9ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 121762ticks. | Operación realizada:Importación de datos a lista artesanal desde un CSV. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 11144ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 1247ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 861ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 810ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 705ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 1287ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 9ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 835ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 1415ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 9ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 964ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 4ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 2109ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 1249ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 4ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 714ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 9ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 732ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 6ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 721ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 4ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 1496ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 4ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 1168ticks. | Operación realizada:Eliminación de jugador de lista artesanal. |
+| Tiempo: 5ticks. | Operación realizada:Consulta de Lista Artesanal. |
+| Tiempo: 6ticks. | Operación realizada:Consulta de Lista C#. |
